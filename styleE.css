@@ -1,0 +1,17 @@
+
+#bodyE{
+	background-color:  #8F5E99;
+}
+
+p, li{
+    font-size: 23px;
+    text-align: justify;
+}
+
+table, th, td {
+   border: 1px solid black;
+}
+
+#return{
+    text-decoration: none;
+}
