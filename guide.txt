@@ -1,0 +1,23 @@
+<div id="empresaM" class="test">
+//todo lo demas
+
+</div>
+
+<div id="productoM" class="test">
+
+//inf de producto con fotos
+</div>
+
+<div id="promocionM" class="test">
+
+//promociones x5
+</div>
+
+<div id="contactoM" class="test">
+
+//redes sociales
+//direction
+//wat
+//formulario
+//mapa
+</div>
