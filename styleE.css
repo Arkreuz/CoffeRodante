@@ -15,3 +15,18 @@ table, th, td {
 #return{
     text-decoration: none;
 }
+
+
+.collapse{
+  cursor: pointer;
+  display: block;
+}
+.collapse + input{
+  display: none; /* hide the checkboxes */
+}
+.collapse + input + div{
+  display:none;
+}
+.collapse + input:checked + div{
+  display:block;
+}
