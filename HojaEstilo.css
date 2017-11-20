@@ -11,7 +11,7 @@ body{
 }
 
 
-img{
+#logo{
 	width: 500px;
 	height: 500px;
 	align: center;
@@ -43,6 +43,10 @@ justify-content: space-between;
 	height: 100px;
 	border: 2px;
 	border-radius: 5px;
+}
+
+#iniciomenu{
+	margin-top: 100px;
 }
 
 .test{
